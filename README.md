@@ -29,8 +29,8 @@ them under a live countdown, and answers are marked instantly against the
 
 ---
 ## To Get a Better View of the App
-There are screenshots of the system in the docs/screenshot directory
-Screenshots are also in the TECHNICAL REPORT. It contains more screenshots than the one in the docs/screenshot directory.
+- There are screenshots of the system in the docs/screenshot directory
+- Screenshots are also in the TECHNICAL REPORT. It contains more screenshots than the one in the docs/screenshot directory.
 
 ## UCC Grading Scale
 
