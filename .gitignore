@@ -1,0 +1,24 @@
+# Compiled class files
+*.class
+
+# Maven build output
+target/
+
+# Local application data (created at runtime by the app)
+data/
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
