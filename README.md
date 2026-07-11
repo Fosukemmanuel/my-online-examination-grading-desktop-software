@@ -176,4 +176,4 @@ local `data/` folder created on first run.
 - **Abstraction:** The `Gradable` interface and the abstract base classes hide
   implementation detail behind stable contracts.
 
-Check the Technical Report (TECHNICAL_REPORT__MS_ITE_25_0045.docx) for a full write-up.
+Check the Technical Report (TECHNICAL_REPORT_MS_ITE_25_0045_Emmanuel_Fosu.docx) for a full write-up.
